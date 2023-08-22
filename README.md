@@ -11,7 +11,7 @@ EPAM proprietary cloud-based device lab and digital experience platform for mobi
 :key: Have a private customized solution, even installed in your own office space, to meet enterprise requirements.
 
 **Professional services**  
-:key: Leverage our consulting and implementation services to kick-start test automation and build continuous testing blueprint.
+:key: Leverage our consulting and implementation services to kick-start mobile test automation and build continuous testing blueprint.
 
 # Mobitru for Engineers  
 **1. Supported application types**  
@@ -39,7 +39,7 @@ EPAM proprietary cloud-based device lab and digital experience platform for mobi
    * Get System and Appium device logs in real-time;
    * Check diagnostic and crash logs using File and Crash Explorers.
 
-**5. Remoter debugging**
+**5. Remote debugging**
    * Easily deploy, run and debug mobile apps right from an IDE (Xcode, Android Studio, Katalon Studio, etc.);
    * Make and test any necessary changes on suitable devices in real-time.
 
