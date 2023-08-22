@@ -71,4 +71,4 @@ EPAM proprietary cloud-based device lab and digital experience platform for mobi
 
 # Want to Learn More?
 * [Contact us](https://mobitru.com/#contact-us)
-* Check out [Mobitru Resource Centre](https://docs.mobitru.com/)
+* Check out [Mobitru Resource Center](https://docs.mobitru.com/)
